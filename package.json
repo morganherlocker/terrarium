@@ -1,0 +1,24 @@
+{
+  "name": "terrarium",
+  "version": "0.0.0",
+  "description": "experimental extensible gis [early development]",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha tests/*",
+    "start": "sh run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/terrarium.git"
+  },
+  "keywords": [
+    "gis",
+    "map"
+  ],
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/terrarium/issues"
+  },
+  "homepage": "https://github.com/morganherlocker/terrarium"
+}
