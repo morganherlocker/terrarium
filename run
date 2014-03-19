@@ -1,2 +1,2 @@
-zip app.nw index.html package.json
+zip -r app.nw *
 open app.nw
