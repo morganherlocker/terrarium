@@ -1,0 +1,14 @@
+{
+  "layers": [
+    {
+      "name": "South_Carolina",
+      "type": "geojson",
+      "location": "./layers/sc.geojson"
+    },
+    {
+      "name": "Cities",
+      "type": "geojson",
+      "location": "./layers/cities.geojson"
+    }
+  ]
+}
