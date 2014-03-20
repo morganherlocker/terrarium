@@ -1,3 +1,7 @@
 module.exports = function(){
-  $('div').css({'background-color':'red'})
+  $(function(){
+    //$('body').css({'background-color':'red'})
+    $('#legend').css({'background-color':'blue'})
+    $('#map').css({'background-color':'orange'})
+  })
 }
