@@ -1,4 +1,4 @@
-browserify ./src/index.js > ./dist/terrarium.js -s terrarium
-uglifyjs ./dist/terrarium.js -o ./dist/terrarium.min.js
+browserify ./src/index.js > ./dist/terrarium.min.js -s terrarium
+#uglifyjs ./dist/terrarium.js -o ./dist/terrarium.min.js
 zip -r app.nw *
 open app.nw
